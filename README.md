@@ -1,0 +1,1 @@
+# Servidor-Socket-Album-de-Figurinhas
